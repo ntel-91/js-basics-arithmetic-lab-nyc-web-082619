@@ -1,1 +1,1 @@
-let random = Math.ceil.random();
+let random = Math.ceil(Math.random()*10)
