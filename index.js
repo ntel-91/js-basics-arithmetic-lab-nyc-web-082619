@@ -1,1 +1,1 @@
-let multiply = var1 * var2;
+let multiply = 2 * 31;
