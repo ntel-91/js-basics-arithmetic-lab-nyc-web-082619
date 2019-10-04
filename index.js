@@ -1,1 +1,1 @@
-let multiply = 
+let random = Math.ceil.random();
