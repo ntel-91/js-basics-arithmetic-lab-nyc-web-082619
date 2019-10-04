@@ -1,1 +1,1 @@
-let multiply = 2 * 31;
+let multiply(var1, var2)
